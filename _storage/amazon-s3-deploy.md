@@ -348,7 +348,7 @@ These instructions assume you have already created a free <a href="https://www.f
 
    ![Domain test](/storage/images/domain-test.png)
 
-   If you receive another **Your connection is not private** dialogs, take the option to proceed to your domain. The *Not secure* message should no longer appear in the browser bar. If the message does appear, try waiting a few minutes for your recent changes to propagate across the net domain servers. Then, refresh the page.
+   If you receive another **Your connection is not private** dialogs, take the option to proceed to your domain. The *Not secure* message should no longer appear in the browser bar. If the message does appear, try waiting a few minutes for your recent changes to propagate across the net domain servers. Then, refresh the page. For further details on this SSL error, <a href="https://bytebitebit.com/687/your-connection-is-not-private/">read this guide</a>.
 
 9. Check the SSL certificate for your hub.
 
